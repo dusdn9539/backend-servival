@@ -1,6 +1,6 @@
 # Table of contents
 
-* [backend-servival](README.md)
+* [backend-survival](README.md)
 
 ## Group 1
 
