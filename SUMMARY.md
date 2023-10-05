@@ -21,4 +21,3 @@
 
 * [3. DTO, JSON, CORS](group-3/3.-dto-json-cors/README.md)
   * [DTO](group-3/3.-dto-json-cors/dto.md)
-  * [Page 1](group-3/3.-dto-json-cors/page-1.md)
