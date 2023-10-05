@@ -17,6 +17,8 @@
   * [Collection Pattern 적용](group-2/2.-rest-api/collection-pattern-1.md)
   * [Spring Web MVC로 구현](group-2/2.-rest-api/spring-web-mvc.md)
 
-***
+## Group 3
 
-* [Page 1](page-1.md)
+* [3. DTO, JSON, CORS](group-3/3.-dto-json-cors/README.md)
+  * [DTO](group-3/3.-dto-json-cors/dto.md)
+  * [Page 1](group-3/3.-dto-json-cors/page-1.md)
