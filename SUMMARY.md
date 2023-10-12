@@ -21,3 +21,9 @@
 
 * [3. DTO, JSON, CORS](group-3/3.-dto-json-cors/README.md)
   * [DTO](group-3/3.-dto-json-cors/dto.md)
+
+## Group 4
+
+* [4. Layered Architecture](group-4/4.-layered-architecture/README.md)
+  * [Layered Architecture](group-4/4.-layered-architecture/layered-architecture.md)
+  * [Data Access](group-4/4.-layered-architecture/data-access.md)
